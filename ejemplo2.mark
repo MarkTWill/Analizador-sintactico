@@ -1,0 +1,24 @@
+void mark(int x, int y){
+        if(4<5){
+        int mark[2]= 5;
+    }
+    while(mark == will){
+        if(mark){
+            int mark [2]= 5;
+            will=true;
+        }
+    }
+    int mark [2]= 5;
+    double ark [2]= 5;
+}
+
+int main(){
+    for(int i=0; i<5; i+1){
+        cout<<"escribir algo"<<ednl;
+    }
+    do{
+        cout<<"prueva"<<endl;
+    }while(i<5);
+    
+    return 0;
+}
